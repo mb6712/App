@@ -1,6 +1,6 @@
-!pip install streamlit
-!pip install elasticsearch
-!pip install sentence_transformers
+#!pip install streamlit
+#!pip install elasticsearch
+#!pip install sentence_transformers
 # streamlit UI
 # pip install streamlit elasticsearch sentence_transformers transformers
 
