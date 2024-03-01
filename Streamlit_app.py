@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fjk6dsEq6otYPphIrNz2T1AEhduGjW-G
 """
 
-!pip install txtai
 !pip install langchain
 !pip install streamlit
 !pip install transformers
